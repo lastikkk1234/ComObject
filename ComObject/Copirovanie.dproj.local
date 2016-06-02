@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.338,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.ridl</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,C:\Users\user\Desktop\API\Labs\ComObject\Project1_TLB.pas=C:\Users\user\Desktop\API\Labs\ComObject\Copirovanie_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,C:\Users\user\Desktop\API\Labs\ComObject\Project1_TLB.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,C:\Users\user\Desktop\API\Labs\ComObject\Copirovanie.ridl=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.ridl</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.429,=C:\Users\user\Desktop\API\Labs\ComObject\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,C:\Users\user\Desktop\API\Labs\ComObject\Unit1.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,C:\Users\user\Desktop\API\Labs\ComObject\Copirovanie_TLB.pas=C:\Users\user\Desktop\API\Labs\ComObject\Project1_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,C:\Users\user\Desktop\API\Labs\ComObject\Copirovanie.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
