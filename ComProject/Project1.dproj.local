@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.876,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016.05.27 11:36:08.669,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016.05.27 11:37:32.840,=C:\Users\user\Documents\Embarcadero\Studio\17.0\Imports\Project1_TLB.pas</Transaction>
+    <Transaction>2016.05.27 11:38:19.739,C:\Users\user\Desktop\API\Labs\ComProject\Unit1.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016.05.27 11:38:19.739,C:\Users\user\Desktop\API\Labs\ComProject\Unit1.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016.05.27 11:38:22.496,C:\Users\user\Desktop\API\Labs\ComProject\Project1.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016.05.27 11:38:39.076,C:\Users\user\Desktop\API\Labs\ComProject\Project1_TLB.pas=C:\Users\user\Documents\Embarcadero\Studio\17.0\Imports\Project1_TLB.pas</Transaction>
+    <Transaction>2016.05.27 11:39:17.025,=C:\Users\user\Desktop\API\Labs\ComProject\Unit3.pas</Transaction>
+    <Transaction>2016.05.27 11:43:32.870,C:\Users\user\Desktop\API\Labs\ComProject\Unit1.pas=</Transaction>
+    <Transaction>2016.05.27 12:17:29.653,C:\Users\user\Desktop\API\Labs\ComProject\Project1_TLB.pas=</Transaction>
+    <Transaction>2016.05.27 12:17:43.996,=C:\Users\user\Documents\Embarcadero\Studio\17.0\Imports\Project1_TLB.pas</Transaction>
+    <Transaction>2016.05.27 12:25:42.485,C:\Users\user\Documents\Embarcadero\Studio\17.0\Imports\Project1_TLB.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
